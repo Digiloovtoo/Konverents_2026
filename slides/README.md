@@ -192,4 +192,13 @@ GitHub toetab Markdowni nii dokumentide (README.md, Wiki) kui ka kommentaaride j
 
 ---
 
+## Ülevaate saamine
+
+- Insights -> Contributors (individuaalne panus)
+- Projects (tahvli jälgimine)
+- Wiki (dokumentatsiooni jälgimine)
+- ...
+
+---
+
 ## Küsimused ja tagasiside
