@@ -4,12 +4,12 @@ See repositoorium sisaldab õppematerjale GitHubi, versioonihalduse ja projektih
 
 ## Slaidid
 
-- [Sissejuhatavad slaidid]()
-- [Töötoa slaidid](slaidid/README.md)
+- [Sissejuhatavad slaidid](./slides/sissejuhatus.pdf)
+- [Töötoa slaidid](./slides/README.pdf)
 
 ## Mentimeter
 
-- [https://www.menti.com/albzo5vqigam ](https://www.menti.com/albzo5vqigam )
+- [https://www.menti.com/albzo5vqigam ](https://www.menti.com/albzo5vqigam)
 
 ## 📚 Materjalide ülevaade
 
