@@ -2,7 +2,14 @@
 
 See repositoorium sisaldab õppematerjale GitHubi, versioonihalduse ja projektihalduse kohta. Materjalid on mõeldud algajatele, kes soovivad omandada põhiteadmised GitHubi ja sellega seotud tööriistade kasutamiseks projektipõhises õppetöös.
 
-<div style='position: relative; padding-bottom: 56.25%; padding-top: 35px; height: 0; overflow: hidden;'><iframe sandbox='allow-scripts allow-same-origin allow-presentation' allowfullscreen='true' allowtransparency='true' frameborder='0' height='315' src='https://www.mentimeter.com/app/presentation/altako561t97nyhes2ix5b12d12uzchi/embed' style='position: absolute; top: 0; left: 0; width: 100%; height: 100%;' width='420'></iframe></div>
+## Slaidid
+
+- [Sissejuhatavad slaidid]()
+- [Töötoa slaidid](slaidid/README.md)
+
+## Mentimeter
+
+- [https://www.menti.com/albzo5vqigam ](https://www.menti.com/albzo5vqigam )
 
 ## 📚 Materjalide ülevaade
 
