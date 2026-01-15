@@ -1,11 +1,19 @@
 ---
 marp: true
+theme: default
+backgroundImage: url('images/HaapsaluK_est.png')
+backgroundPosition: 20px calc(100% - 20px)
+backgroundSize: 250px
 paginate: true
 ---
 
 # Digiloovtöö GitHubis
 
-## Projektihaldus, koostöö ja dokumentatsioon
+Maia Lust
+
+Martti Raavel
+
+![bg right contain](images/Git_Flow.png)
 
 ---
 
@@ -157,7 +165,7 @@ README.md fail on selle poolest eriline, et kaustas olevat README.md faili kuvat
 
 ## Markdown
 
-arkdown on kerge märgendikeel, millel on lihtne tekstivormingu süntaks. See loodi John Gruber-i poolt 2004. aastal. Markdowni peamine eesmärk oli muuta inimestel teksti kirjutamine ja vormindamine lihtsaks viisil, mis on vabalt loetav ja mida saab konverteerida HTML-iks (või teisteks väljundvorminguteks).
+Markdown on kerge märgendikeel, millel on lihtne tekstivormingu süntaks. See loodi John Gruber-i poolt 2004. aastal. Markdowni peamine eesmärk oli muuta inimestel teksti kirjutamine ja vormindamine lihtsaks viisil, mis on vabalt loetav ja mida saab konverteerida HTML-iks (või teisteks väljundvorminguteks).
 
 ---
 
@@ -202,3 +210,11 @@ GitHub toetab Markdowni nii dokumentide (README.md, Wiki) kui ka kommentaaride j
 ---
 
 ## Küsimused ja tagasiside
+
+---
+
+## Kui tahad rohkem GitHubist teada saada
+
+Reedel räägin, kuidas me Haapsalus GitHubi kasutame
+
+---
